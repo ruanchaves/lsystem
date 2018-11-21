@@ -1,3 +1,6 @@
+#Swap files
+*.swp
+
 # Compiled class file
 *.class
 
