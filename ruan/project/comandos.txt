@@ -1,0 +1,57 @@
+=============================
+TECLAS DE ROTAÇÃO : WASD + QE
+
+Eixo de cada tecla :
+
+W : +y
+A : -x
+S : -y
+D : +x
+Q : -z
+E : +z
+
+===============================
+TECLAS DE TRANSLAÇÃO: TFGH + RY
+
+Eixo de cada tecla :
+
+T : +y
+F : -x
+G : -y
+H : +x
+R : -z
+Y : +z
+
+==================================
+TECLAS DE ESCALONAMENTO: IJKL + UO
+
+Eixo de cada tecla :
+
+I: +y
+J: -x
+K: -y
+L: +x
+U: -z
+O: +z
+
+==================================
+TECLAS ESPECIAIS
+
+V: Aumenta todas dimensões da figura ( zoom in )
+B: Diminui todas dimensões da figura ( zoom out )
+
+N: Reseta a figura e a intensidade das teclas ao estado inicial
+
+1: Diminui intensidade das teclas de rotação
+2: Aumenta intensidade das teclas de rotação
+
+3: Diminui intensidade das teclas de translação
+4: Aumenta intensidade das teclas de translação
+
+5: Diminui intensidade das teclas de escalonamento
+6: Aumenta intensidade das teclas de escalonamento
+
+P: Muda de projeção
+
+TAB: Muda para a próxima figura
+SHIFT: Volta para a figura anterior
